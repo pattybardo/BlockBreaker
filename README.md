@@ -4,4 +4,4 @@ game, but I am still learning. So enjoy and message me if you have any ideas! Th
 
 To play:
 Open the game bucket file on the main directory. There contains a link to a hosted verson of the game which is playable in 
-a browser which supports unity we player
+a browser which supports unity web player
